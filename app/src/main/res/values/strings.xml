@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">past usage</string>
+    <string name="start_export">start export</string>
+    <string name="change_password">Change password</string>
+    <string name="upload_ready">upload ready</string>
+    <string name="password">password</string>
+</resources>
